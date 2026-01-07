@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hello World! 👋🏼
 
-<!--
-**krish-gupta-404/krish-gupta-404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my Github page! I am Krish Gupta and I am currently pursuing my B.Tech degree in EE - VLSI from Vivekananda Institute of Professional Studies - Technical Campus (VIPS - TC) !
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/krish-gupta-404)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:krishgupta9968@gmail.com)
 
-Here are some ideas to get you started:
+### 🛠️ Things I am currently working on: 
+- Improve my coding skills  
+- Participating in my college workshops
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🖥️ Languages I know:
+- Python
+- C
+- SQL
+
