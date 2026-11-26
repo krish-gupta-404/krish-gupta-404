@@ -11,6 +11,7 @@ Welcome to my Github page! I am Krish Gupta and I am currently pursuing my B.Tec
 - Exploring opportunities in my field of domain
 
 ### 🖥️ Languages I know:
+- Verilog
 - Python
 - C
 - SQL
